@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adiprasetyaa
 - 👀 I’m interested in web development and mobile apps development
-- 🌱 I’m currently learning c, c++, html, and css
+- 🌱 I’m currently learning c, c++,and java.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me adiprasetyaa11@gmail.com
 
