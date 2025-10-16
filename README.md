@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adiprasetyaa
 - 👀 I’m interested in web development and mobile app development
-- 🌱 I’m currently enrolled as a Mobile Developer Cohort at Bangkit Academy
-- 💞️ I’m looking to collaborate on android app development.
+- 🌱 I’m currently being a Full-stack Developer, especially Android Developer.
+- 💞️ I’m looking to collaborate on Android App development.
 - 📫 How to reach me adiprasetyaa11@gmail.com
 
 ## Stats
