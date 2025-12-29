@@ -18,7 +18,11 @@ I mainly work on **Android (Kotlin)** and **Flutter**, and I also handle web/bac
 ## Stats
 <div align="center">
 
-https://pixel-profile.vercel.app/api/github-stats?username=adiiprasetyaa&theme=summer
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=adiprasetyaa&theme=journey&dithering=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=adiprasetyaa&screen_effect=true&theme=journey&dithering=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=adiprasetyaa&theme=journey&dithering=true">
+</picture>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adiprasetyaa&theme=onedark&show_icons=true)
 
