@@ -1,20 +1,25 @@
-- 👋 Hi, I’m @adiprasetyaa
-- 👀 I’m interested in web development and mobile app development
-- 🌱 I’m currently being a Full-stack Developer, especially Android Developer.
-- 💞️ I’m looking to collaborate on Android App development.
-- 📫 How to reach me adiprasetyaa11@gmail.com
+## Hey, I’m Adi Prasetya 👋
+
+I’m a **Mobile & Full-Stack Developer** focused on building **clean, reliable, and scalable apps**—from UI to backend.  
+I mainly work on **Android (Kotlin)** and **Flutter**, and I also handle web/backend when the product needs it.
+
+### What I can help you with
+- 📱 **Android app development (Kotlin)** — MVVM/Clean Architecture, REST API integration, Firebase, performance & UX polish  
+- 🧩 **Flutter app development** — cross-platform apps with maintainable architecture  
+- 🌐 **Backend / Web support** — Node.js/Laravel basics, dashboard/admin panel, deployment & integrations  
+- 🚀 **Shipping & improvement** — bug fixing, refactor, feature iteration, and production readiness
+
+### Let’s work together
+- 💼 Open for **freelance**, **contract**, and **collaboration** (especially Android projects)
+- 📫 Reach me: **adiprasetyaa11@gmail.com**
+
+---
 
 ## Stats
-
-<div style="text-align: center">
+<div align="center">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adiprasetyaa&theme=onedark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprasetyaa&theme=onedark&layout=compact&langs_count=8&card_width=445)
 
 </div>
-
-<!---
-adiprasetyaa/adiprasetyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
