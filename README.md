@@ -57,6 +57,14 @@ I care about clean user flows, reliable architecture, and small decisions that m
 
 </div>
 
+## Recognition Signals
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adiprasetyaa&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Commits,Repositories,PullRequest,Followers" alt="GitHub profile trophies" />
+
+</div>
+
 ## Working Style
 
 - I start with the product goal, then choose the technical path that supports it.
@@ -92,6 +100,14 @@ I care about clean user flows, reliable architecture, and small decisions that m
     </td>
   </tr>
 </table>
+
+## Contribution System
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+
+</div>
 
 ## Open Source & GitHub Pulse
 
