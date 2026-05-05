@@ -1,0 +1,58 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Adi Prasetya profile banner</title>
+  <desc id="desc">A premium dark technical banner for Adi Prasetya, Mobile and Full-Stack Developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#260808"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="344" y1="98" x2="856" y2="263" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="0.48" stop-color="#facc15"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 180) rotate(90) scale(116)">
+      <stop offset="0" stop-color="#dffbff"/>
+      <stop offset="0.28" stop-color="#22d3ee"/>
+      <stop offset="0.58" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#ef4444" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="260" y="-20" width="680" height="400" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.94 0 1 0 0 0.41 0 0 1 0 0.08 0 0 0 0.8 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#243044" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#grid)" opacity="0.42"/>
+  <path d="M0 282C150 230 250 306 392 266C523 229 552 139 693 124C851 108 931 183 1200 107V360H0V282Z" fill="#0f172a" opacity="0.72"/>
+  <circle cx="600" cy="180" r="130" fill="url(#core)" opacity="0.65"/>
+
+  <g filter="url(#glow)">
+    <circle cx="600" cy="180" r="74" stroke="url(#gold)" stroke-width="7"/>
+    <circle cx="600" cy="180" r="49" stroke="#22d3ee" stroke-width="2" opacity="0.9"/>
+    <circle cx="600" cy="180" r="22" fill="#e0fbff"/>
+    <path d="M600 62V106M600 254V298M482 180H526M674 180H718M516 96L547 127M653 233L684 264M684 96L653 127M547 233L516 264" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <path d="M128 87H336L390 141" stroke="#334155" stroke-width="2"/>
+  <path d="M812 141L866 87H1072" stroke="#334155" stroke-width="2"/>
+  <path d="M128 273H344L398 219" stroke="#334155" stroke-width="2"/>
+  <path d="M802 219L856 273H1072" stroke="#334155" stroke-width="2"/>
+  <circle cx="336" cy="87" r="5" fill="#f59e0b"/>
+  <circle cx="866" cy="87" r="5" fill="#22d3ee"/>
+  <circle cx="344" cy="273" r="5" fill="#22d3ee"/>
+  <circle cx="856" cy="273" r="5" fill="#f59e0b"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="800" letter-spacing="4">ADI PRASETYA</text>
+  <text x="600" y="248" text-anchor="middle" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="600" letter-spacing="2">MOBILE ENGINEERING  /  ANDROID  /  FLUTTER  /  PRODUCT SYSTEMS</text>
+  <text x="600" y="294" text-anchor="middle" fill="#fbbf24" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="3">BUILT WITH PRECISION. SHIPPED WITH INTENT.</text>
+
+  <rect x="28" y="28" width="1144" height="304" rx="24" stroke="#475569" stroke-width="1.5" opacity="0.65"/>
+  <path d="M58 58H178M1022 58H1142M58 302H178M1022 302H1142" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+</svg>
