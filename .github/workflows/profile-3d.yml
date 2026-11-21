@@ -25,11 +25,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile-snake/github-snake.svg
+            profile-snake/github-snake-dark.svg?palette=github-dark
+
       - name: Commit generated assets
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib
-          if git commit -m "Generate 3D contribution graph"; then
+          git add -A profile-3d-contrib profile-snake
+          if git commit -m "Generate contribution graphs"; then
             git push
           fi
