@@ -128,8 +128,8 @@ Most of my work is **Kotlin and Flutter** on the client, with **Laravel**, React
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adiprasetyaa&theme=github-dark-blue&hide_border=true&background=0D1117" />
-  <img src="https://streak-stats.demolab.com?user=adiprasetyaa&hide_border=true" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adiprasetyaa&starting_year=2025&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=adiprasetyaa&starting_year=2025&hide_border=true" alt="Contribution streak" />
 </picture>
 
 <br />
